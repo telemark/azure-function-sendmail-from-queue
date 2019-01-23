@@ -1,6 +1,9 @@
+[![Build Status](https://travis-ci.com/telemark/azure-function-sendmail-from-queue.svg?branch=master)](https://travis-ci.com/telemark/azure-function-sendmail-from-queue)
+[![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
+
 # azure-function-sendmail-from-queue
 
-Azure functions for sending emails from an sb queue
+Azure functions for sending emails from an sb queue.
 
 ## Message format
 
