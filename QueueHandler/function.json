@@ -5,7 +5,7 @@
       "name": "mySbMsg",
       "type": "serviceBusTrigger",
       "direction": "in",
-      "queueName": "testsendmailqueue",
+      "queueName": "%SERVICEBUS_QUEUE_NAME%",
       "connection": "SERVICEBUS_CONNECTION"
     }
   ]
